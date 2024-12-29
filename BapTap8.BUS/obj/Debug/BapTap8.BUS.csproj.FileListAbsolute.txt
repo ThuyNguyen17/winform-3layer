@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\obj\Debug\BapTap8.BUS.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\obj\Debug\BapTap8.BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\BapTap8.BUS.dll.config
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\BapTap8.BUS.dll
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\BapTap8.BUS.pdb
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\Btap8.DAL.dll
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\EntityFramework.dll
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\Btap8.DAL.pdb
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\Btap8.DAL.dll.config
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\EntityFramework.xml
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\obj\Debug\BapTap8..1FA00F41.Up2Date
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\obj\Debug\BapTap8.BUS.dll
+C:\Users\DELL\OneDrive\Desktop\NGUYENTHITHUY_2280615759\BTap8\BapTap8.BUS\obj\Debug\BapTap8.BUS.pdb
